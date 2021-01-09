@@ -1,8 +1,6 @@
 ## Biography
 
-You can use the [editor on GitHub](https://github.com/vatsanaij/info/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Vatsanai is a Ph.D student at bio-inspired robotics and neural engineering laboratory (BRAIN Lab), school of Information Science and Technology (IST), Vidyasirimedhi Institute of Science and Technology (VISTEC).
 
 <img src="./image/137220860_158708975720545_7082127799971808971_n.jpeg"> 
 
