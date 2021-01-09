@@ -5,6 +5,7 @@ Vatsanai (Oh) was born in Yasothon, Thailand. Currently, he is a Ph.D student at
 <br>  
 <br>  
 ## Research Interests
+Autonomous Systems, Drones, Embodied AI, Machine Learning for Robotics, Neural Control for Indoor Navigation and Explaration, Service and Inspection Robots.
 <br> 
 <br>  
 <br>  
