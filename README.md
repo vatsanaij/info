@@ -13,5 +13,6 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
 <img src="./image/success.jpeg">
 
 ## Experiences
-**Research Assistant** at VISTEC (June – July 2018)
+**Research Assistant** at VISTEC (July– August 2018)
+  design and manufacture exoskeleton suit mockup 
 <img src="./image/flying.png">
