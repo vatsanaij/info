@@ -11,11 +11,13 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
 <br>  
 ## Publications
 <img src="./image/success.jpeg">
-
+<br> 
+<br>  
+<br> 
 ## Experiences
 **Research Assistant** at VISTEC (July– August 2018)<br>
-  -Design and manufacture exoskeleton suit mockup for the greeting with her royal highness, Princess Sirindhorn. 
+  - Design and manufacture exoskeleton suit mockup for the greeting with her royal highness, Princess Sirindhorn. 
   
 **Maintenance Engineer** at SCG Chemicals, (August 2015 - June 2018)<br>
-  -Maintain and improve machine/process performance in field of instrumentation and control system in petrochemical plant.  
+  - Maintain and improve machine/process performance in field of instrumentation and control system in petrochemical plant.  
 
