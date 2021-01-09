@@ -14,5 +14,5 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
 
 ## Experiences
 **Research Assistant** at VISTEC (July– August 2018)<br />
-  design and manufacture exoskeleton suit mockup for the greeting with her royal highness, Princess Sirindhorn. 
+  - design and manufacture exoskeleton suit mockup for the greeting with her royal highness, Princess Sirindhorn. 
 <img src="./image/flying.png">
