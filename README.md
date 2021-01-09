@@ -13,4 +13,5 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
 <img src="./image/success.jpeg">
 
 ## Experiences
+<b>Research Assistant<b> at VISTEC (June – July 2018)
 <img src="./image/flying.png">
