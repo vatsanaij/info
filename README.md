@@ -32,11 +32,15 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
   - cooperate activities with alumni and department/engineering faculty
   
 **Student Intern** at DOW Chemicals, (June - July 2014)
-  - create and lead student activities
-  - cooperate activities with alumni and department/engineering faculty
+  - Practice on process instrumentation maintenance, calibration and troubleshooting in maintenance system
   
 **Student Intern** at Chevron (Thailand), (March - May 2014)
-  - create and lead student activities
-  - cooperate activities with alumni and department/engineering faculty
+  - Worked on project entitled “Control Objective Analysis” regarding of objective and operating performance on each element in the closed-loop control
+  
+<br> 
+<br>  
+<br> 
+
+## Experiences
  
 
