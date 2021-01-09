@@ -1,6 +1,6 @@
 ## Biography
 
-Vatsanai is a Ph.D student at bio-inspired robotics and neural engineering laboratory (BRAIN Lab), school of Information Science and Technology (IST), Vidyasirimedhi Institute of Science and Technology (VISTEC).
+Vatsanai is a Ph.D student at bio-inspired robotics and neural engineering laboratory (BRAIN Lab), school of Information Science and Technology (IST), Vidyasirimedhi Institute of Science and Technology (VISTEC). <br> He recieved 
 
  
  
