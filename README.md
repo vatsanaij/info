@@ -1,4 +1,4 @@
-## About
+## Biography
 
 You can use the [editor on GitHub](https://github.com/vatsanaij/info/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <img src="./image/137220860_158708975720545_7082127799971808971_n.jpeg"> 
 
-### Markdown
+## Research
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
