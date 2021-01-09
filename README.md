@@ -19,20 +19,20 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
 
 ## Experiences
 **Research Assistant** at VISTEC (July– August 2018)
-  - Design and manufacture exoskeleton suit mockup for the greeting with her royal highness, Princess Sirindhorn 
+  - Designed and manufactured exoskeleton suit mockup for the greeting with her royal highness, Princess Sirindhorn 
   
 **Maintenance Engineer** at SCG Chemicals, (August 2015 - June 2018)
-  - Maintain and improve machine/process performance in field of instrumentation and control system in petrochemical plant  
+  - Maintained and improved machine/process performance in field of instrumentation and control system in petrochemical plant  
   
 **TFT Campus Leader (KMITL)** at Teach for Thailand, (2014 - 2015)
   - Coordinate and conduct activities between Teach for Thailand and KMITL
   
 **Instrument Student Leader** at KMITL, (2012 - 2015)
-  - create and lead student activities
-  - cooperate activities with alumni and department/engineering faculty
+  - created and lead student activities
+  - cooperated activities with alumni and department/engineering faculty
   
 **Student Intern** at DOW Chemicals, (June - July 2014)
-  - Practice on process instrumentation maintenance, calibration and troubleshooting in maintenance system
+  - Practiced on process instrumentation maintenance, calibration and troubleshooting in maintenance system
   
 **Student Intern** at Chevron (Thailand), (March - May 2014)
   - Worked on project entitled “Control Objective Analysis” regarding of objective and operating performance on each element in the closed-loop control
@@ -41,6 +41,7 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
 <br>  
 <br> 
 
-## Experiences
+## Honours & Awards
+
  
 
