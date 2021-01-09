@@ -6,7 +6,7 @@ Vatsanai is a Ph.D student at bio-inspired robotics and neural engineering labor
  
 <p> </p>
 ## Research Interests
-<img src="./imageflying.jpeg">
+<img src="./image/flying.jpeg">
 
 
 ## Publications
