@@ -8,7 +8,6 @@ Vatsanai Jaiton (Oh) was born in Yasothon, Thailand, in 1989. Currently, he is a
 Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robots, Neural Control for Navigation and Explaration, Embodied AI, Machine Learning for Robotics.
 <br> 
 <br>  
-<br>  
 
 ## Publications
 <img src="./image/success.jpeg">
