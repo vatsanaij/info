@@ -42,6 +42,13 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
 <br> 
 
 ## Honours & Awards
+- Best Senior Project Award (2014)
+- Chevron Internship Scholarship: on appraisal of working performance (2014)
+- DOW Chemicals Internship Scholarship (2013 - 2014)
+- Excellent Scholarship :KMITL (2013)
+- Chumbhot - Pantip Foundation Scholarship (2012 - 2014)
+- KMITL Scholarship (2011 -2014)
+- Toshiba Foundation Scholarship (2011 - 2014)
 
  
 
