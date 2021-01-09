@@ -1,13 +1,11 @@
 ## Biography
 
 Vatsanai is a Ph.D student at bio-inspired robotics and neural engineering laboratory (BRAIN Lab), school of Information Science and Technology (IST), Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand. He recieved his B.Eng degree in instrumentation engineering with second class honors from the King Mongkut's Institute of Technology Ladkrabang, Thailand in 2015. 
-
+<p> </p>
+<img src="./image/137220860_158708975720545_7082127799971808971_n.jpeg">
  
- 
- 
- 
-
-## Research
+<p> </p>
+## Research Interests
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -29,4 +27,5 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+## Publications
 <img src="./image/137220860_158708975720545_7082127799971808971_n.jpeg">
