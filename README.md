@@ -2,8 +2,7 @@
 
 Vatsanai Jaiton (Oh) was born in Yasothon, Thailand, in 1989. Currently, he is a Ph.D student at Bio-inspired Robotics and Neural Engineering laboratory ([BRAIN Lab](https://brain.vistec.ac.th/)), school of Information Science and Technology (IST), Vidyasirimedhi Institute of Science and Technology ([VISTEC](https://www.vistec.ac.th/)), Thailand. <br>He recieved his B.Eng degree in instrumentation engineering with second class honors from the King Mongkut’s Institute of Technology Ladkrabang, Thailand in 2015.
 <br> 
-<br>  
-<br> 
+<br>   
 
 ## Research Interests
 Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robots, Neural Control for Navigation and Explaration, Embodied AI, Machine Learning for Robotics.
@@ -14,8 +13,7 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
 ## Publications
 <img src="./image/success.jpeg">
 <br> 
-<br>  
-<br> 
+<br>   
 
 ## Experiences
 **Research Assistant** at VISTEC (July– August 2018)
@@ -35,11 +33,9 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
   - Practiced on process instrumentation maintenance, calibration and troubleshooting in maintenance system
   
 **Student Intern** at Chevron (Thailand), (March - May 2014)
-  - Worked on project entitled “Control Objective Analysis” regarding of objective and operating performance on each element in the closed-loop control
-  
+  - Worked on project entitled “Control Objective Analysis” regarding of objective and operating performance on each element in the closed-loop control 
 <br> 
 <br>  
-<br> 
 
 ## Honours & Awards
 - Best Senior Project Award (2014)
