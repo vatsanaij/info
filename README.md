@@ -2,7 +2,7 @@
 
 Vatsanai is a Ph.D student at bio-inspired robotics and neural engineering laboratory (BRAIN Lab), school of Information Science and Technology (IST), Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand. He recieved his B.Eng degree in instrumentation engineering with second class honors from the King Mongkut's Institute of Technology Ladkrabang, Thailand in 2015. 
 <p> </p>
-<img src="./image/137220860_158708975720545_7082127799971808971_n.jpeg">
+<img src="./image/vsj2.jpeg">
  
 <p> </p>
 ## Research Interests
@@ -28,4 +28,4 @@ Syntax highlighted code block
 ```
 
 ## Publications
-<img src="./image/137220860_158708975720545_7082127799971808971_n.jpeg">
+<img src="./image/success.jpeg">
