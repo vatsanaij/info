@@ -27,7 +27,7 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
 **TFT Campus Leader (KMITL)** at Teach for Thailand, (2014 - 2015)<br>
   - Coordinate and conduct activities between Teach for Thailand and KMITL
   
-**Instrument Student Leader** at KMITL, (2012 - 2015)<br>
+**Instrument Student Leader** at KMITL, (2012 - 2015)
   - create and lead student activities
   - cooperate activities with alumni and department/engineering faculty
  
