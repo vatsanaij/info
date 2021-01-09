@@ -5,7 +5,7 @@ Vatsanai Jaiton (Oh) was born in Yasothon, Thailand, in 1989. Currently, he is a
 <br>  
 <br>  
 ## Research Interests
-Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robots, Neural Control for Indoor Navigation and Explaration, Embodied AI, Machine Learning for Robotics.
+Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robots, Neural Control for Navigation and Explaration, Embodied AI, Machine Learning for Robotics.
 <br> 
 <br>  
 <br>  
