@@ -1,6 +1,6 @@
 ## Biography
 
-Vatsanai Jaiton (Oh) was born in Yasothon, Thailand, in 1989. Currently, he is a Ph.D student at Bio-inspired Robotics and Neural Engineering laboratory (BRAIN Lab), school of Information Science and Technology (IST), Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand. <br>He recieved his B.Eng degree in instrumentation engineering with second class honors from the King Mongkut’s Institute of Technology Ladkrabang, Thailand in 2015.
+Vatsanai Jaiton (Oh) was born in Yasothon, Thailand, in 1989. Currently, he is a Ph.D student at Bio-inspired Robotics and Neural Engineering laboratory ([BRAIN Lab](https://brain.vistec.ac.th/)), school of Information Science and Technology (IST), Vidyasirimedhi Institute of Science and Technology ([VISTEC](https://www.vistec.ac.th/)), Thailand. <br>He recieved his B.Eng degree in instrumentation engineering with second class honors from the King Mongkut’s Institute of Technology Ladkrabang, Thailand in 2015.
 <br> 
 <br>  
 <br>  
