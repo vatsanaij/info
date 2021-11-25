@@ -10,6 +10,7 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
 <br>  
 
 ## Publications
+Jaiton, V., Manoonpong, P. (2021) **Chaotic Neural Oscillator for Navigation and Exploration of Autonomous Drones**, Proceedings of The 9.5th International Symposium on Adaptive Motion of Animals and Machines (AMAM2021), DOI: [https://doi.org/10.18910/84868](https://doi.org/10.18910/84868)
 <img src="./image/success.jpeg">
 <br> 
 <br>   
