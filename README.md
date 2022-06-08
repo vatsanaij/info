@@ -10,7 +10,7 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
 <br>  
 
 ## Publications
-Jaiton, V., Rothomphiwat, K., Ebeid, E.S. and Manoonpong, P. (2022) Neural Control and Online Learning for Speed Adaptation of Unmanned Aerial Vehicles, Frontiers in Neural Circuits, DOI: [https://doi.org/10.3389/fncir.2022.839361](https://doi.org/10.3389/fncir.2022.839361) (JIF = 3.492, SJR = 1.91, SCIE, Q1) ([video](https://www.manoonpong.com/DSA/))([video summary](https://www.youtube.com/watch?v=gaLMzUNC324))
+Jaiton, V., Rothomphiwat, K., Ebeid, E.S. and Manoonpong, P. (2022) **Neural Control and Online Learning for Speed Adaptation of Unmanned Aerial Vehicles**, Frontiers in Neural Circuits, DOI: [https://doi.org/10.3389/fncir.2022.839361](https://doi.org/10.3389/fncir.2022.839361) (JIF = 3.492, SJR = 1.91, SCIE, Q1) ([video](https://www.manoonpong.com/DSA/))([video summary](https://www.youtube.com/watch?v=gaLMzUNC324))
 
 Jaiton, V., Manoonpong, P. (2021) **Chaotic Neural Oscillator for Navigation and Exploration of Autonomous Drones**, Proceedings of The 9.5th International Symposium on Adaptive Motion of Animals and Machines (AMAM2021), DOI: [https://doi.org/10.18910/84868](https://doi.org/10.18910/84868)
 <img src="./image/success.jpeg">
