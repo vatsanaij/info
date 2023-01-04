@@ -1,13 +1,22 @@
 ## Biography
 
-Vatsanai Jaiton (Oh) [[CV](https://drive.google.com/file/d/1_uyaCzcxT1Iy-0fEOOt4W5WOsjRYdz03/view?usp=sharing)] was born in Yasothon, Thailand, in 1989. Currently, he is a Ph.D. student at Bio-inspired Robotics and Neural Engineering laboratory ([BRAIN Lab](https://brain.vistec.ac.th/)), school of Information Science and Technology (IST), Vidyasirimedhi Institute of Science and Technology ([VISTEC](https://www.vistec.ac.th/)), Thailand. <br>He received his B.Eng. degree in instrumentation engineering with second class honors from the King Mongkut’s Institute of Technology Ladkrabang, Thailand in 2015.
+Vatsanai Jaiton (Oh) was born in Yasothon, Thailand, in 1989. Currently, he is a Ph.D. student at Bio-inspired Robotics and Neural Engineering laboratory ([BRAIN Lab](https://brain.vistec.ac.th/)), school of Information Science and Technology (IST), Vidyasirimedhi Institute of Science and Technology ([VISTEC](https://www.vistec.ac.th/)), Thailand. <br>He received his B.Eng. degree in instrumentation engineering with second class honors from the King Mongkut’s Institute of Technology Ladkrabang, Thailand in 2015.
 <br> 
 <br>   
 
 ## Research Interests
-Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robots, Neural Control for Navigation and Exploration, Embodied AI, Machine Learning for Robotics.
+Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robots, Neural Control for Navigation and Exploration, Neural Control for Aerial Robotics, Embodied AI & Neurorobotics, Neural Dynamics, Learning and Plasticity, and Machine Learning for Robotics.
 <br> 
 <br>  
+
+## Academic Background
+**2018 – now**	  Ph.D. student at the Bio-inspired Robotics and Neural Engineering laboratory (BRAIN Lab), School of Information Science and Technology (IST),   Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand
+
+**2011 – 2015** 	B.Eng. degree in instrumentation engineering with second-class honors from the King Mongkut’s Institute of Technology Ladkrabang, Thailand
+
+**2002 – 2008**	  High School at Mahachanachai Wittayakom school, Yasothon, Thailand
+<br> 
+<br>
 
 ## Publications
 Mingchinda, N.; Jaiton, V.; Leung, B.; and Manoonpong, P. (2022) **Neural Body Bending Control with Temporal Delays for Millipede-Like Turning Behaviour of a Multi-Segmented, Legged Robot**, From Animals to Animats 16. SAB 2022. Lecture Notes in Computer Science, pp. 52-63 (EI), DOI: [https://link.springer.com/chapter/10.1007/978-3-031-16770-6_5](https://link.springer.com/chapter/10.1007/978-3-031-16770-6_5)
@@ -18,6 +27,15 @@ Jaiton, V., Manoonpong, P. (2021) **Chaotic Neural Oscillator for Navigation and
 <img src="./image/success.jpeg">
 <br> 
 <br>   
+
+## Social Activities
+**2022 – now** 	*Project Leader* of a community development project, Developing Community-Based Joint Production and Network Marketing, supported by Equitable Education Fund (EEF), Thailand
+
+**2019 – now**	*Consultant & coordinator* of Ban Kutphankhiao Youth Development Club to empower and support youth to the bright future
+
+**2020 – 2021** 	*Team Leader* of food and drink transportation management for homecare/home isolation COVID-19 patients of Ramathibodi (Chakri) Hospital 
+
+
 
 ## Experiences
 **Research Assistant** at VISTEC (July– August 2018)
