@@ -19,6 +19,11 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
 <br>
 
 ## Publications
+Mingchinda, N., Jaiton, V., Leung, B., Manoonpong, P. (2023) **Leg-body coordination strategies for obstacle avoidance and narrow space navigation of multi-segmented, legged robots**, Frontiers in Neurorobotics, doi: 10.3389/fnbot.2023.1214248 link:[https://www.frontiersin.org/articles/10.3389/fnbot.2023.1214248/full] (JIF= 3.1, SCI, Q2) ([videos](https://www.youtube.com/watch?v=X0usS2ZIObI))
+
+
+Jaitona, V., Manoonpong, P. (2023) **Neuro-Lorenz Oscillator with Bias Adaptation for Adaptive Searching and Exploring Behaviors of Flying Systems**. Proceedings of The 11th International Symposium on Adaptive Motion of Animals and Machines (AMAM2023). 2023, p. 113-114, [https://doi.org/10.18910/92293]
+
 Mingchinda, N.; Jaiton, V.; Leung, B.; and Manoonpong, P. (2022) **Neural Body Bending Control with Temporal Delays for Millipede-Like Turning Behaviour of a Multi-Segmented, Legged Robot**, From Animals to Animats 16. SAB 2022. Lecture Notes in Computer Science, pp. 52-63 (EI), DOI: [https://link.springer.com/chapter/10.1007/978-3-031-16770-6_5](https://link.springer.com/chapter/10.1007/978-3-031-16770-6_5)
 
 Jaiton, V., Rothomphiwat, K., Ebeid, E.S. and Manoonpong, P. (2022) **Neural Control and Online Learning for Speed Adaptation of Unmanned Aerial Vehicles**, Frontiers in Neural Circuits, DOI: [https://doi.org/10.3389/fncir.2022.839361](https://doi.org/10.3389/fncir.2022.839361) (JIF = 3.492, SJR = 1.91, SCIE, Q1) ([video](https://www.manoonpong.com/DSA/))([video summary](https://www.youtube.com/watch?v=gaLMzUNC324))
