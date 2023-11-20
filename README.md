@@ -31,7 +31,7 @@ Jaiton, V., Rothomphiwat, K., Ebeid, E.S. and Manoonpong, P. (2022) **Neural Con
 Jaiton, V., Manoonpong, P. (2021) **Chaotic Neural Oscillator for Navigation and Exploration of Autonomous Drones**, Proceedings of The 9.5th International Symposium on Adaptive Motion of Animals and Machines (AMAM2021), DOI: [https://doi.org/10.18910/84868](https://doi.org/10.18910/84868)
 
 ## Social Activities
-**2022 – now** 	*Project Leader* of a community development project, Developing Community-Based Joint Production and Network Marketing, supported by Equitable Education Fund (EEF), Thailand
+**2022 – now** 	*Project Leader* of a rural community development project, Developing Community-Based Joint Production and Network Marketing, supported by Equitable Education Fund (EEF), Yasothon, Thailand
 
 **2019 – now**	*Consultant & coordinator* of Ban Kutphankhiao Youth Development Club to empower and support youth to the bright future
 
