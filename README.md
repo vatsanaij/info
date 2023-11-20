@@ -44,7 +44,7 @@ Jaiton, V., Manoonpong, P. (2021) **Chaotic Neural Oscillator for Navigation and
   - Designed and made exoskeleton suit mockup for the greeting with her royal highness, Princess Sirindhorn 
   
 **Maintenance Engineer (Instrument and Control)** at SCG Chemicals, (August 2015 - June 2018)
-  - Maintained and improved machine/process performance in field of instrumentation and control system in petrochemical plant  
+  - Maintained and improved machine/process performance in the field of instrumentation and control systems in petrochemical plant  
   
 **TFT Campus Leader (KMITL)** at Teach for Thailand, (2014 - 2015)
   - Coordinated and conducted activities between Teach for Thailand and KMITL
