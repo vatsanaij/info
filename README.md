@@ -19,7 +19,7 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
 <br>
 
 ## Publications
-Mingchinda, N., Jaiton, V., Leung, B., Manoonpong, P. (2023) **Leg-body coordination strategies for obstacle avoidance and narrow space navigation of multi-segmented, legged robots**, Frontiers in Neurorobotics, doi: [10.3389/fnbot.2023.1214248] ([link](https://www.frontiersin.org/articles/10.3389/fnbot.2023.1214248/full)) (JIF= 3.1, SCI, Q2) ([videos](https://www.youtube.com/watch?v=X0usS2ZIObI))
+Mingchinda, N., Jaiton, V., Leung, B., Manoonpong, P. (2023) **Leg-body coordination strategies for obstacle avoidance and narrow space navigation of multi-segmented, legged robots**, Frontiers in Neurorobotics, doi: 10.3389/fnbot.2023.1214248 ([link](https://www.frontiersin.org/articles/10.3389/fnbot.2023.1214248/full)) (JIF= 3.1, SCI, Q2) ([videos](https://www.youtube.com/watch?v=X0usS2ZIObI))
 
 
 Jaitona, V., Manoonpong, P. (2023) **Neuro-Lorenz Oscillator with Bias Adaptation for Adaptive Searching and Exploring Behaviors of Flying Systems**. Proceedings of The 11th International Symposium on Adaptive Motion of Animals and Machines (AMAM2023). 2023, p. 113-114, [https://doi.org/10.18910/92293]
