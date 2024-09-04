@@ -19,7 +19,7 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
 <br>
 
 ## Publications
-Jaiton, V., Rothomphiwat, K., Phetpoon, T., Manawakul, M., Manoonpong, P. (2024) **An Integrated Adaptive Control System for Obstacle Detection and Online Speed Adaptation of Autonomous Drones**, IEEE/SICE International Symposium on System Integration (SII) 2024, Ha Long, Vietnam, 2024, pp. 1355-1356, doi: 10.1109/SII58957.2024.10417272. ([pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10417272))
+Jaiton, V., Rothomphiwat, K., Phetpoon, T., Manawakul, M., Manoonpong, P. (2024) **An Integrated Adaptive Control System for Obstacle Detection and Online Speed Adaptation of Autonomous Drones**, IEEE/SICE International Symposium on System Integration (SII) 2024, Ha Long, Vietnam, 2024, pp. 1355-1356, doi: 10.1109/SII58957.2024.10417272. ([pdf](https://drive.google.com/file/d/1nccpGB7YxN5w6gzcRWySPT1dLUE14_Q2/view?usp=sharing))
 
 Mingchinda, N., Jaiton, V., Leung, B., Manoonpong, P. (2023) **Leg-body coordination strategies for obstacle avoidance and narrow space navigation of multi-segmented, legged robots**, Frontiers in Neurorobotics, doi: 10.3389/fnbot.2023.1214248 ([link](https://www.frontiersin.org/articles/10.3389/fnbot.2023.1214248/full)) (JIF= 3.1, SCI, Q2) ([videos](https://www.youtube.com/watch?v=X0usS2ZIObI))
 
