@@ -19,7 +19,7 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
 <br>
 
 ## Publications
-Jaiton, V., Manoonpong, P. (2025). **Neural Chaotic Dynamics for Adaptive Exploration Control of an Autonomous Flying Robot.** In: Brock, O., Krichmar, J. (eds) From Animals to Animats 17. SAB 2024. Lecture Notes in Computer Science(), vol 14993. Springer, Cham. https://doi.org/10.1007/978-3-031-71533-4_19([link](https://doi.org/10.1007/978-3-031-71533-4_19))
+Jaiton, V., Manoonpong, P. (2025). **Neural Chaotic Dynamics for Adaptive Exploration Control of an Autonomous Flying Robot.** In: From Animals to Animats 17. SAB 2024. Lecture Notes in Computer Science, vol 14993. Springer, Cham. https://doi.org/10.1007/978-3-031-71533-4_19 ([link](https://doi.org/10.1007/978-3-031-71533-4_19))
 
 Jaiton, V., Rothomphiwat, K., Phetpoon, T., Manawakul, M., Manoonpong, P. (2024) **An Integrated Adaptive Control System for Obstacle Detection and Online Speed Adaptation of Autonomous Drones**, IEEE/SICE International Symposium on System Integration (SII) 2024, Ha Long, Vietnam, 2024, pp. 1355-1356, doi: 10.1109/SII58957.2024.10417272. ([pdf](https://drive.google.com/file/d/1nccpGB7YxN5w6gzcRWySPT1dLUE14_Q2/view?usp=sharing))
 
