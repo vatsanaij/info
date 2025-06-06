@@ -19,7 +19,7 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
 <br>
 
 ## Publications
-Jaiton, V., Jadhav, P. D., Rothomphiwat,K., Phetpoon, T., Tarapongniwat, K., Manoonpong, P. (2025) **An Integrated Adaptive System for On-Pipe Landing and Adherence of Autonomous Inspection Drones**, IEEE/SICE International Symposium on System Integration (SII) 2025, accepted. video
+Jaiton, V., Jadhav, P. D., Rothomphiwat, K., Phetpoon, T., Tarapongniwat, K., Manoonpong, P. (2025) **An Integrated Adaptive System for On-Pipe Landing and Adherence of Autonomous Inspection Drones**, IEEE/SICE International Symposium on System Integration (SII) 2025, [https://ieeexplore.ieee.org/document/10871060](https://ieeexplore.ieee.org/document/10871060).
 
 Jaiton, V., Manoonpong, P. (2025). **Neural Chaotic Dynamics for Adaptive Exploration Control of an Autonomous Flying Robot** In: From Animals to Animats 17. SAB 2024. Lecture Notes in Computer Science, vol 14993. Springer, Cham. [https://doi.org/10.1007/978-3-031-71533-4_19](https://doi.org/10.1007/978-3-031-71533-4_19). ([pdf](https://drive.google.com/file/d/15ob_XriJ8cXYuuio0lvAXAFUiANYRSo6/view?usp=sharing))
 
