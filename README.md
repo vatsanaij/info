@@ -21,7 +21,7 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
 ## Publications
 T. Phetpoon, V. Jaiton, K. Rothomphiwat, M. Manawakul, P. Chirathanyanon, P. Ritmetee, P. Manoonpong **Multimodal Obstacle Detection and Adaptive Neural Control for Autonomous Drones**, The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), accepted
 
-V. Jaiton and P. Manoonpong, **Neural dynamics and synaptic plasticity in simple networks drive Lévy flight foraging and obstacle avoidance behaviors for bio-inspired autonomous flight**, Neural Networks, vol. 192, p. 107913, 2025, doi: 10.1016/j.neunet.2025.107913, [https://doi.org/10.1016/j.neunet.2025.107913](https://doi.org/10.1016/j.neunet.2025.107913).
+V. Jaiton and P. Manoonpong, **Neural Dynamics and Synaptic Plasticity in Simple Networks Drive Lévy Flight Foraging and Obstacle Avoidance Behaviors for Bio-inspired Autonomous Flight**, Neural Networks, vol. 192, p. 107913, 2025, doi: 10.1016/j.neunet.2025.107913, [https://doi.org/10.1016/j.neunet.2025.107913](https://doi.org/10.1016/j.neunet.2025.107913).
 
 Jaiton, V., Jadhav, P. D., Rothomphiwat, K., Phetpoon, T., Tarapongniwat, K., Manoonpong, P. (2025) **An Integrated Adaptive System for On-Pipe Landing and Adherence of Autonomous Inspection Drones**, IEEE/SICE International Symposium on System Integration (SII) 2025, [https://ieeexplore.ieee.org/document/10871060](https://ieeexplore.ieee.org/document/10871060).
 
