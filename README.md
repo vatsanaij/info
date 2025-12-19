@@ -10,6 +10,8 @@ Unmanned Aerial Vehicles (UAVs), Autonomous Robots, Service and Inspection Robot
 <br>  
 
 ## Academic Background
+**Oct 2025 – now** Visiting Ph.D. Researcher in the Research Group for Neuromorphic Computing at the Zurich University of Applied Sciences (ZHAW), Wädenswil, Switzerland
+
 **2018 – now**	  Ph.D. student at the Bio-inspired Robotics and Neural Engineering Laboratory (BRAIN Lab), School of Information Science and Technology (IST),   Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand
 
 **2011 – 2015** 	B.Eng. degree in instrumentation engineering with second-class honors from the King Mongkut’s Institute of Technology Ladkrabang, Thailand
