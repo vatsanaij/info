@@ -33,7 +33,7 @@ section {
 /* RIGHT COLUMN FIGURES */
 .right-images {
   grid-column: 3;
-  margin-top: 40px;
+  margin-top: 30px;
 }
 
 .right-images img {
