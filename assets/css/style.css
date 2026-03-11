@@ -1,33 +1,40 @@
-/* widen the whole page */
 .wrapper {
   max-width: 1400px;
   margin: auto;
-}
 
-/* main layout: profile + text + images */
-.wrapper {
   display: grid;
   grid-template-columns: 220px 1fr 320px;
-  gap: 40px;
+  grid-template-rows: auto auto;
+  column-gap: 40px;
 }
 
-/* profile column */
+/* left column */
 header {
   grid-column: 1;
+  grid-row: 1;
 }
 
-/* main text column */
+/* main content */
 section {
   grid-column: 2;
+  grid-row: 1;
 }
 
-/* images column */
+/* right column images */
 .right-images {
   grid-column: 3;
+  grid-row: 1;
 }
 
 .right-images img {
   width: 100%;
   margin-bottom: 25px;
   border-radius: 8px;
+}
+
+/* footer should span across bottom */
+footer {
+  grid-column: 1 / span 3;
+  grid-row: 2;
+  margin-top: 40px;
 }
