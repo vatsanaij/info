@@ -3,20 +3,14 @@
   margin: auto;
 }
 
+/* create 2 columns: text + images */
 section {
-  display: flex;
-  align-items: flex-start;
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 40px;
 }
 
-.content {
-  flex: 3;
-  padding-right: 40px;
-}
-
-.right-images {
-  flex: 1;
-}
-
+/* images column */
 .right-images img {
   width: 100%;
   margin-bottom: 25px;
