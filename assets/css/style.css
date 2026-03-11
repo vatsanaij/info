@@ -10,7 +10,6 @@
 header {
   grid-column: 1;
   position: sticky;
-  top: 40px;
   align-self: start;
 }
 
@@ -33,7 +32,6 @@ section {
 /* RIGHT COLUMN FIGURES */
 .right-images {
   grid-column: 3;
-  top: 40px;
 }
 
 .right-images img {
