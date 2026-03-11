@@ -4,29 +4,24 @@
 
   display: grid;
   grid-template-columns: 220px 1fr 320px;
-  grid-template-rows: auto auto;
   column-gap: 40px;
 }
 
-/* left column */
+/* LEFT COLUMN (profile + contact) */
 header {
   grid-column: 1;
-  grid-row: 1;
-
   position: sticky;
   top: 20px;
 }
 
-/* main content */
+/* MAIN CONTENT */
 section {
   grid-column: 2;
-  grid-row: 1;
 }
 
-/* right column images */
+/* RIGHT COLUMN FIGURES */
 .right-images {
   grid-column: 3;
-  grid-row: 1;
 }
 
 .right-images img {
@@ -35,13 +30,8 @@ section {
   border-radius: 8px;
 }
 
-/* footer should span across bottom */
+/* CONTACT AT BOTTOM OF LEFT COLUMN */
 footer {
   grid-column: 1;
-  grid-row: 2;
-
-  position: sticky;
-  bottom: 20px;
-
-  align-self: end;
+  margin-top: 40px;
 }
