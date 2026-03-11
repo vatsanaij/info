@@ -1,18 +1,28 @@
 .wrapper {
   max-width: 1400px;
   margin: auto;
-
   display: grid;
   grid-template-columns: 220px 1fr 320px;
   column-gap: 40px;
 }
 
-/* LEFT COLUMN (profile + contact) */
+/* LEFT COLUMN */
 header {
   grid-column: 1;
   position: sticky;
   top: 40px;
   align-self: start;
+}
+
+/* PROFILE IMAGE SPACING */
+header img {
+  margin-bottom: 15px;
+}
+
+/* CONTACT BLOCK */
+.contact {
+  margin-top: 80px;
+  font-size: 0.9em;
 }
 
 /* MAIN CONTENT */
@@ -29,14 +39,4 @@ section {
   width: 100%;
   margin-bottom: 25px;
   border-radius: 8px;
-}
-
-/* CONTACT AT BOTTOM OF LEFT COLUMN */
-footer {
-  grid-column: 1;
-  margin-top: 40px;
-}
-
-.contact {
-  margin-top: 60px;
 }
