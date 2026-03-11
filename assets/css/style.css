@@ -1,18 +1,33 @@
+/* widen the whole page */
 .wrapper {
   max-width: 1400px;
   margin: auto;
 }
 
-/* create 2 columns: text + images */
-section {
+/* main layout: profile + text + images */
+.wrapper {
   display: grid;
-  grid-template-columns: 3fr 1fr;
+  grid-template-columns: 220px 1fr 320px;
   gap: 40px;
 }
 
+/* profile column */
+header {
+  grid-column: 1;
+}
+
+/* main text column */
+section {
+  grid-column: 2;
+}
+
 /* images column */
+.right-images {
+  grid-column: 3;
+}
+
 .right-images img {
   width: 100%;
   margin-bottom: 25px;
-  border-radius: 6px;
+  border-radius: 8px;
 }
